@@ -25,7 +25,7 @@ function NavBar() {
       <Container fluid className="nav-container">
         <Navbar.Brand href="#home">
           <img
-            src="../../../Images/Netflix_Logo_RGB.png"
+            src="Images/Netflix_Logo_RGB.png"
             width="178"
             height="75"
             className="d-inline-block align-top"
@@ -59,7 +59,7 @@ function NavBar() {
               title={
                 <img
                   src={
-                    "../../../Images/netflix-profile-pictures-1000-x-1000-vnl1thqrh02x7ra2.jpg"
+                    "Images/netflix-profile-pictures-1000-x-1000-vnl1thqrh02x7ra2.jpg"
                   }
                   alt="user image"
                   width="20px"
