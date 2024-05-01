@@ -1,0 +1,37 @@
+.nav-link {
+  color: #fff !important;
+  margin-left: 1rem;
+  font-weight: 450;
+}
+.navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+  height: 70px;
+}
+.add_bg {
+  background-color: #111;
+}
+.nav-link:hover {
+  color: #000;
+  background-color: rgba(51, 51, 51, 0.5);
+  transition: background-color 0.3s ease-in-out;
+}
+.search div:after {
+  font-family: "FontAwesome";
+  font-weight: 400;
+  content: "\f002";
+}
+.notification div:after {
+  font-family: "FontAwesome";
+  font-weight: 400;
+  content: "\f0f3";
+}
+.d-flex {
+  margin-right: 1rem;
+}
+.dropdown-item {
+  width: fit-content !important;
+}
+/* .dropdown-menu {
+  max-width: 2px;
+} */
